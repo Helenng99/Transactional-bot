@@ -1,4 +1,4 @@
-Introduction
+## **Introduction**
 
 
 Companies increasingly require new ways to communicate with their customers, facilitate interaction with them, and improve their sales channels. For this practice, we put ourselves in the situation of being freelance consultants and were hired by a company to develop a small bot for managing queries and orders.
@@ -12,7 +12,7 @@ The goal was to enable customers to make requests with simple text messages such
 For the demo, we were tasked with creating a script capable of generating requests in JSON format to be sent to the Amadeus booking software. Creating a notebook in ipynb format was sufficient for demonstrating the functionality.
 
 
-What were the main objectives in this project?
+## **What were the main objectives in this project?**
 
 1. Convert user-entered phrases into JSON format.
 2. Generate a table or JSON containing information for each message.
